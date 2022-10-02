@@ -1,0 +1,6 @@
+.eye.left {
+  left:25%;
+}
+.eye.right {
+  right:25%;
+}
